@@ -657,6 +657,9 @@ a:hover {
   top: 15px;
   right: 15px;
 }
+.img-link {
+  display: block;
+}
 
 .navbar-mobile ul {
   display: block;
